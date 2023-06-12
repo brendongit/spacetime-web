@@ -48,7 +48,6 @@ export function NewMemoryForm(){
             <Camera className="w-4 h-4"/>
             Anexar mídia
             </label>
-
             <label htmlFor="isPublic" className="flex items-center gap-1.5 text-sm text-gray-200 hover:text-gray-100">
             <input 
               type="checkbox" 
